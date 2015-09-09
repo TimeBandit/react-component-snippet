@@ -9,15 +9,19 @@ React.createClass({
 
 
 
-  propTypes : {
+  propTypes: {
     ${1}
   },
+  
+  
 
   getDefaultProps() {
     return {
       ${2}
     }
   },
+
+
 
   getInitialState() {
     return {
