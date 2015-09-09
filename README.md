@@ -4,7 +4,7 @@ A template for neat & clean React components.
 Type `React.cc→` followed by a tab to generate this beauty:
 
 ```jsx
-  React.createClass({
+React.createClass({
 
 
   ////////////////////
@@ -104,9 +104,9 @@ Type `React.cc→` followed by a tab to generate this beauty:
 
 ## Instructions
 1. Open Package Control inside of Sublime Text using `shift + cmd + P`
-- Search for: Package Control: Add Repository
-- Add the link to this repo: https://github.com/krishnr/react-component-snippet
-- Now install the snippet: `shift + cmd + P` To launch Package Control again.
-- Start typing: Package Control: Install Package
+- Search for `Package Control: Add Repository`
+- Add the link to this repo: https://github.com/pumpupapp/react-component-snippet
+- Install the snippet: `shift + cmd + P` To launch Package Control again.
+- Start typing: `Package Control: Install Package`
 - Search for `react-component-snippet`
 - Done! Test it out by typing `React.cc→`
