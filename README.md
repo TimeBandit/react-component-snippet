@@ -6,12 +6,8 @@ Type `React.cc→` followed by a tab to generate this beauty:
 ```jsx
 React.createClass({
 
-
-  ////////////////////
   // PROPS & STATES //
-  ////////////////////
-
-
+  
   propTypes : {
 
   },
@@ -27,14 +23,8 @@ React.createClass({
 
     }
   },
-
-
-
-
-  ////////////////
+  
   // RENDERINGS //
-  ////////////////
-
 
   render() {
     return (
@@ -43,61 +33,19 @@ React.createClass({
       </div>
     )
   },
-
-
-
-
-  /////////////////////
+  
   // LIFECYCLE HOOKS //
-  /////////////////////
-
-
-
-
-
-
-  ////////////////////
+  
+  
   // EVENT HANDLERS //
-  ////////////////////
 
-
-
-
-
-
-  /////////////
   // GETTERS //
-  /////////////
 
-
-
-
-
-
-  /////////////
   // SETTERS //
-  /////////////
 
-
-
-
-
-
-  //////////////////////
   // DOM MANIPULATORS //
-  //////////////////////
-
-
-
-
-
-
-  ////////////////////
+  
   // HELPER METHODS //
-  ////////////////////
-
-
-
 
 })
 ```
@@ -105,7 +53,7 @@ React.createClass({
 ## Instructions
 1. Open Package Control inside of Sublime Text using `shift + cmd + P`
 - Search for `Package Control: Add Repository`
-- Add the link to this repo: https://github.com/pumpupapp/react-component-snippet
+- Add the link to this repo: https://github.com/TimeBandit/react-component-snippet
 - Install the snippet: `shift + cmd + P` To launch Package Control again.
 - Start typing: `Package Control: Install Package`
 - Search for `react-component-snippet`
