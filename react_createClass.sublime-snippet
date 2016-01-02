@@ -2,10 +2,7 @@
   <content><![CDATA[
 React.createClass({
 
-  ////////////////////
   // PROPS & STATES //
-  ////////////////////
-  
   propTypes: {
     ${1}
   },
