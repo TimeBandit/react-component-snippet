@@ -36,7 +36,6 @@ React.createClass({
   
   // LIFECYCLE HOOKS //
   
-  
   // EVENT HANDLERS //
 
   // GETTERS //
