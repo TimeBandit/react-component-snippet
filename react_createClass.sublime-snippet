@@ -33,22 +33,16 @@ React.createClass({
 
   // LIFECYCLE HOOKS //
   ${5}
-
   // EVENT HANDLERS //
   ${6}
-
   // GETTERS //
   ${7}
-
   // SETTERS //
   ${8}
-
   // DOM MANIPULATORS //
   ${9}
-
   // HELPER METHODS //
   ${10}
-
 })
 ]]></content>
   <tabTrigger>React.cc</tabTrigger>
